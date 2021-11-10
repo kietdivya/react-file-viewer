@@ -1,5 +1,5 @@
 {
-  "name": "@zeyt/react-file-viewer",
+  "name": "@kietdivya/react-file-viewer",
   "version": "0.0.1",
   "description": "To remove vulneravility issue: WFR-227972",
   "main": "dist/index.js",
