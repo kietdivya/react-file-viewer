@@ -4,6 +4,9 @@
   "description": "To remove vulneravility issue: WFR-227972",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kietdivya/react-file-viewer.git"
