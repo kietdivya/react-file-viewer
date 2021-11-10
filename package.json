@@ -6,9 +6,9 @@
   "module": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/divyarajput/@zeyt/react-file-viewer.git"
+    "url": "https://github.com/kietdivya/react-file-viewer.git"
   },
-  "homepage": "https://github.com/divyarajput/@zeyt/react-file-viewer",
+  "homepage": "https://github.com/kietdivya/react-file-viewer",
   "scripts": {
     "dev": "webpack -d --watch",
     "build": "webpack --progress",
